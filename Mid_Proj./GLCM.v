@@ -6,7 +6,7 @@
 //
 //   ICLAB 2023 spring
 //   Midterm Proejct            : GLCM 
-//   Author                     : Hsi-Hao Huang
+//   Author                     : CHarles Han
 //
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //
